@@ -1,1 +1,2 @@
-# ECE5470 - Homework 2
+# Spatial Filtering Code
+Resultant Images are in the Image Results folder
